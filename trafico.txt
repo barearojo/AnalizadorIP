@@ -1,0 +1,17 @@
+la direccion uno es: 192.168.0.1 80
+la direccion dos es: 10.0.0.5 8080
+un poco de ruido para validar 10.110.10
+no deberia coger porque le falta un octet
+la direccion tres es: 127.0.0.1 22
+ruido a ignorar 1284982137313
+sobrepasa el numero de puertos posibles 
+al igual que si hago un -1 o un -33 o 0
+la direccion cuatro es: 203.0.113.1 443
+la direccion cinco es: 198.23.45.67 8088
+la direccion seis es: 172.31.255.255 8081
+
+
+
+
+
+
